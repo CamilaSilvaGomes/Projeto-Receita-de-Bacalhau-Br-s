@@ -1,0 +1,13 @@
+h1 {
+	color: #5882FA;
+}
+img {
+	width: 400px;
+	height: auto;
+}
+#pontos::after {
+	content: "...";
+}
+body {
+	background-color: #d3d3d3;
+}
